@@ -2,7 +2,7 @@
 
 A compact set of Colab notebooks showcasing multiple adaptation strategies for large language models (LLMs) and vision-language models with **Unsloth**, **Hugging Face Transformers**, **Datasets**, and **TRL (Reinforcement Learning for Transformers)**. Each notebook is self-contained and designed to run on Google Colab GPUs.
 
-> **Add your Colab links** in the placeholders below. YouTube walkthroughs are already linked.
+> 
 
 ---
 
