@@ -101,31 +101,7 @@ pip install -U unsloth transformers datasets trl accelerate bitsandbytes peft
 3. `model.generate(max_new_tokens=..., temperature=..., top_p=...)`.  
 4. Decode and post‑process (strip special tokens).
 
----
 
-## ✅ Evaluation (suggested)
-
-- Hold out a small **validation set** that mirrors your target tasks.  
-- Track **loss/perplexity** (CPT) and task metrics (SFT/RL).  
-- Do **A/B** comparisons: base vs. adapted model for the same prompts.
-
----
-
-## 🧯 Troubleshooting
-
-- **CUDA OOM:** lower batch size, enable 8‑bit optimizer, reduce context length, or use LoRA.  
-- **No BF16:** fall back to FP16; consider gradient checkpointing.  
-- **Weird formatting:** ensure consistent chat templates train ↔️ infer.  
-- **Unstable PPO:** adjust reward scaling and **KL coefficient**.
-
----
-
-## 📎 Add Your Colab Links Here
-
-Paste your Colab URLs above where it says `ADD_COLAB_LINK_HERE`. A common pattern is:
-```
-https://colab.research.google.com/github/<user-or-org>/<repo>/blob/main/<notebook>.ipynb
-```
 
 ---
 
