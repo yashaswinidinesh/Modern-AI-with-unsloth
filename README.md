@@ -9,7 +9,7 @@ A compact set of Colab notebooks showcasing multiple adaptation strategies for l
 ## 📚 Project Index (Colab ↔️ Video)
 
 ### 1) CMPE255_Mistral_Finetuning_v1 — **Full-Parameter Fine-Tuning (SFT)**
-- Colab: [Open in Colab](ADD_COLAB_LINK_HERE)
+- Colab: [Open in Colab](https://colab.research.google.com/drive/16FeUX4NnpLjqDmLT0jgLu5FWdZHkrcxl)
 - Video: [YouTube](https://youtu.be/YkelSl8ZRFw)
 
 ### 2) CMPE255_Mistral_Lora_Finetunning_colab_2_Yashaswini_Dinesh — **PEFT with LoRA (Low-Rank Adaptation) + SFT**
