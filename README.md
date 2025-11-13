@@ -13,19 +13,19 @@ A compact set of Colab notebooks showcasing multiple adaptation strategies for l
 - Video: [YouTube](https://youtu.be/YkelSl8ZRFw)
 
 ### 2) CMPE255_Mistral_Lora_Finetunning_colab_2_Yashaswini_Dinesh — **PEFT with LoRA (Low-Rank Adaptation) + SFT**
-- Colab: [Open in Colab](ADD_COLAB_LINK_HERE)
+- Colab: [Open in Colab](https://colab.research.google.com/drive/1Z678XBE0R7wICHy80I2AyfqG6cHphfoC)
 - Video: [YouTube](https://youtu.be/v2Hld-1gN2Y)
 
 ### 3) CMPE255_Mistral_Lora_Finetuning_Reinforcement_Sentimental_colab_3 — **LoRA + RL (PPO) for Positive Sentiment**
-- Colab: [Open in Colab](ADD_COLAB_LINK_HERE)
+- Colab: [Open in Colab](https://colab.research.google.com/drive/15QzcGwnzokoEKD3YNMebvEOxYheH68-c#scrollTo=mDV34W70B3Re)
 - Video: [YouTube](https://youtu.be/aDRBJRug2M0)
 
 ### 4) CMPE255_Colab_4_Gemma3_Vision_GRPO — **Gemma 3 Vision + GRPO (Generalized Reinforcement Policy Optimization)**
-- Colab: [Open in Colab](ADD_COLAB_LINK_HERE)
+- Colab: [Open in Colab](https://colab.research.google.com/drive/1XPK3eHflutga1_uaBLnWvrBZuAU1pBph#scrollTo=kR3gIAX-SM2q)
 - Video: [YouTube](https://youtu.be/dRzSiNLbgLU)
 
 ### 5) CMPE255_unsloth_cpt_colab5 — **CPT/DAP (Continued/Domain-Adaptive Pretraining)**
-- Colab: [Open in Colab](ADD_COLAB_LINK_HERE)
+- Colab: [Open in Colab](https://colab.research.google.com/drive/1JzP5YbZi-__V7XXqrSs0tSjOon3CYGHQ#scrollTo=d87ce179)
 - Video: [YouTube](https://youtu.be/j5LzfcMUAl8)
 
 ---
